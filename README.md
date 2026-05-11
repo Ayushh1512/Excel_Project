@@ -120,20 +120,20 @@ Engagement Rate = (Likes + Shares + Comments) / Impressions
 
 ## Insights:
 
-Video is the top-performing content type (avg engagement 16,276). 
-
-Twitter + Image is the highest single combination. #AppleEvent is the most used hashtag (75 posts), while #iPhone16Launch drives the highest average engagement per post.
-
-The Sustainability Awareness Drive delivered the best ROI (score 24.23, $22 engagement per dollar) despite the lowest budget ($40K).
-
-iPhone 16 Launch had the worst ROI despite the highest spend ($85K), showing that spend alone doesn't guarantee returns.
-
-iPhone 16 drove the most follower growth (118K+) and the peak week was 22 July 2024 (35,220 new followers).
-
-Twitter is the best platform for real-time launch moments. Notably, Apple Watch Ultra 2 saw a -20.4% engagement drop during its own campaign — a red flag worth addressing.
-
-Sustainability content, #ShotOniPhone UGC, lifestyle, and health/wellness themes are the four pillars sustaining long-term loyalty.
-
-A multi-platform strategy should continue, but with increased YouTube budget, reduced LinkedIn spend, and a stronger focus on organic, value-driven content between product launches.
+- Video is the top-performing content type (avg engagement 16,276). 
+- 
+- Twitter + Image is the highest single combination. #AppleEvent is the most used hashtag (75 posts), while #iPhone16Launch drives the highest average engagement per post.
+- 
+- The Sustainability Awareness Drive delivered the best ROI (score 24.23, $22 engagement per dollar) despite the lowest budget ($40K).
+- 
+- iPhone 16 Launch had the worst ROI despite the highest spend ($85K), showing that spend alone doesn't guarantee returns.
+- 
+- iPhone 16 drove the most follower growth (118K+) and the peak week was 22 July 2024 (35,220 new followers).
+- 
+- Twitter is the best platform for real-time launch moments. Notably, Apple Watch Ultra 2 saw a -20.4% engagement drop during its own campaign — a red flag worth addressing.
+- 
+- Sustainability content, #ShotOniPhone UGC, lifestyle, and health/wellness themes are the four pillars sustaining long-term loyalty.
+- 
+- A multi-platform strategy should continue, but with increased YouTube budget, reduced LinkedIn spend, and a stronger focus on organic, value-driven content between product launches.
 
 
