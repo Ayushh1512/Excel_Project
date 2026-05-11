@@ -41,3 +41,8 @@ outcomes. They want clarity on:
 Build a Social Media Intelligence Solution in Excel that consolidates Apple’s raw data into
 actionable business insights.Your analysis should help Apple’s digital marketing team make
 data-driven decisions for improving campaign performance, engagement, and platform strategy.
+
+## Dataset Used:
+
+- <a href="https://github.com/Ayushh1512/Excel_Project/blob/main/Apple%20Marketing%20Data.xlsx">Dataset</a>
+
