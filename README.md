@@ -1,11 +1,11 @@
-## Excel_Project
+# Excel_Project
 1. Posts Dataset: Contains individual Apple social media posts across major platforms.
 2. Engagement Summary Dataset: Aggregated weekly dataset tracking overall platform-level performance and advertising effectiveness.
 3. Campaign Metadata Dataset: Contains information about Apple’s marketing campaigns (e.g., iPhone Launch, Vision Pro Promotion, Privacy Awareness).
 
-## Project title: Apple Social Media Analytics for Strategic Branding
+# Project title: Apple Social Media Analytics for Strategic Branding
 
-## Project Overview:
+# Project Overview:
 You are hired as a Data Analyst by Apple, a global leader in consumer technology and
 innovation, known for iconic products like the iPhone, MacBook, iPad, Apple Watch, and
 AirPods.
@@ -37,18 +37,18 @@ outcomes. They want clarity on:
 ● What content strategy sustains customer loyalty and brand advocacy?
 
 
-## Project Objective:
+# Project Objective:
 Build a Social Media Intelligence Solution in Excel that consolidates Apple’s raw data into
 actionable business insights.Your analysis should help Apple’s digital marketing team make
 data-driven decisions for improving campaign performance, engagement, and platform strategy.
 
-## Dataset and Solution file:
+# Dataset and Solution file:
 
 - <a href="https://github.com/Ayushh1512/Excel_Project/blob/main/Apple%20Marketing%20Data.xlsx">Dataset</a>
 
-## Tasks:
+# Tasks:
 
-# Task 1: Data Preprocessing & Cleaning
+## Task 1: Data Preprocessing & Cleaning
 
 ● Remove duplicate Apple posts.
 
@@ -58,7 +58,7 @@ data-driven decisions for improving campaign performance, engagement, and platfo
 
 ● Split hashtags (e.g., #ShotOniPhone, #iPhone16, #AppleEvent) into separate tags for analysis.
 
-# Task 2: Engagement Analysis
+## Task 2: Engagement Analysis
 
 Using the Posts Dataset:
 
@@ -73,7 +73,7 @@ Engagement Rate = (Likes + Shares + Comments) / Impressions
 
 ● Highlight top-performing hashtags such as #ShotOniPhone, #AppleEvent, #iPhone16Launch, #MacBookAir.
 
-# Task 3: Platform Analysis
+## Task 3: Platform Analysis
 
 ● Identify the platform with highest engagement (e.g., Twitter for announcements vs. YouTube for product demos).
 
@@ -83,7 +83,7 @@ Engagement Rate = (Likes + Shares + Comments) / Impressions
 
 ● Advise Apple’s team: Should they focus on YouTube + Instagram (videos + visuals) or continue a multi-platform strategy?
 
-# Task 4: Hashtag & Content Strategy
+## Task 4: Hashtag & Content Strategy
 
 ● Identify the most frequently used Apple hashtags.
 
@@ -96,7 +96,7 @@ Engagement Rate = (Likes + Shares + Comments) / Impressions
 
 ● Recommend which content type performs best on each platform(e.g., videos for YouTube, product images for Instagram).
 
-# Task 5: Campaign Effectiveness
+## Task 5: Campaign Effectiveness
 
 ● Calculate:
 ○ Total & Average Impressions, Likes, Clicks per Campaign.
@@ -106,7 +106,7 @@ Engagement Rate = (Likes + Shares + Comments) / Impressions
 ○ Which campaign had the highest ROI (engagement vs. spend)?
 ○ Which campaign drove the strongest follower growth?
 
-# Task 6: Follower Retention & Loyalty
+## Task 6: Follower Retention & Loyalty
 
 ● Visualize weekly follower growth per platform (line chart).
 
@@ -116,9 +116,9 @@ Engagement Rate = (Likes + Shares + Comments) / Impressions
 
 ● Correlate ad spend vs. follower growth using scatter plots.
 
-# Task 7: Video explanation: Expressing the finding and actionable insights
+## Task 7: Video explanation: Expressing the finding and actionable insights
 
-## Insights:
+# Insights:
 
 - Video is the top-performing content type (avg engagement 16,276). 
   
